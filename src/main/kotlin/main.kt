@@ -10,7 +10,7 @@ fun main()
     code.stringfile = "This is class file"
     code.system = 10000
 
-    println()
-    println()
-    println()
+    println(code.filecode)
+    println(code.stringfile)
+    println(code.system)
 }
