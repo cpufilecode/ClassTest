@@ -11,4 +11,5 @@ fun main()
     code.system = 10000
 
     println()
+    println()
 }
