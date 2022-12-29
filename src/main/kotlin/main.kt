@@ -1,3 +1,6 @@
+class Classfile {
+
+}
 fun main()
 {
 
